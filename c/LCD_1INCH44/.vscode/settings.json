@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "lcd_1inch44.h": "c",
+        "spi.h": "c",
+        "stdlib.h": "c",
+        "binary_info.h": "c",
+        "stdio.h": "c"
+    }
+}
